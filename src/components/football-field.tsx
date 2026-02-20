@@ -7,7 +7,7 @@ export function FootballField() {
       className="absolute inset-0 h-full w-full object-cover"
       preserveAspectRatio="xMidYMid slice"
       aria-hidden="true"
-      style={{ opacity: 0.5 }}
+      style={{ opacity: 0.35 }}
     >
       {/* Field background */}
       <rect width="1200" height="533" fill="#1a3d0e" />
